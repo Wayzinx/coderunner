@@ -1,0 +1,5 @@
+name: "代码执行工具"
+author: "wayzinx"
+description: "根据请求内容自动生成代码并执行，返回执行结果的插件"
+version: "1.0.0"
+repository: "https://github.com/Wayzinx/coderunner.git" 
