@@ -1,0 +1,5 @@
+name: "代码执行工具"
+author: "wayzinx"
+description: "代码执行工具 - 支持自然语言描述生成并执行代码，支持多种输出（文本/图像/文件）"
+version: "1.2.0"
+repository: "https://github.com/Wayzinx/coderunner.git" 
